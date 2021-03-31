@@ -117,3 +117,4 @@ C:\Users\samsung-shamsi\source\repos\DevCard1\DevCard_Project\DevCard_Mvc\bin\De
 C:\Users\samsung-shamsi\source\repos\DevCard1\DevCard_Project\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\samsung-shamsi\source\repos\DevCard1\DevCard_Project\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 C:\Users\samsung-shamsi\source\repos\DevCard1\DevCard_Project\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Shared\Components\LatesArticles\_LatesArticle.cshtml.g.cs
+C:\Users\samsung-shamsi\source\repos\DevCard1\DevCard_Project\DevCard_Mvc\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
